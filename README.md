@@ -6,8 +6,8 @@ Videojuego 2D de plataformas desarrollado con tecnologías web (HTML5, CSS3 y Ja
 
 ## Enlaces del proyecto
 
-- Repositorio GitHub: https://github.com/MoisesMotaAlarcon/relics-of-the-lost-world
-- Versión jugable online (Vercel): https://relics-of-the-lost-world.vercel.app/
+- Repositorio GitHub: https://github.com/mota-studio/relics-of-the-lost-world
+- Versión jugable online (Vercel): https://relics-of-the-lost-world-motastudio.vercel.app/
 - Tráiler oficial: https://youtu.be/Gs9AweuAA2E
 
 ---
